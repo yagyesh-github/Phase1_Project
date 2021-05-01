@@ -31,6 +31,7 @@ public class First_User_Interface
 	    	  break;
 	          
 	      case 3 :
+			System.out.println("Application has closed.\n");
 	    	  	System.exit(0);
 	
 	         break;
